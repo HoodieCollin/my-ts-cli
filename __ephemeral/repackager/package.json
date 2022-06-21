@@ -1,0 +1,25 @@
+{
+  "name": "repackager",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node --esm script.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "@types/inquirer": "^8.2.1",
+    "@types/klaw": "^3.0.3",
+    "@types/lodash": "^4.14.182",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "klaw": "^4.0.1",
+    "lodash": "^4.17.21",
+    "ora": "^5.4.1",
+    "pretty-error": "^4.0.0",
+    "simple-git": "^3.8.0",
+    "ts-node": "^10.8.1"
+  }
+}

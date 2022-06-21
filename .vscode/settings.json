@@ -1,0 +1,18 @@
+{
+  "cSpell.words": ["", "klaw"],
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.singleQuote": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.sortImports": true
+    }
+  },
+  "typescript.preferences.importModuleSpecifier": "non-relative"
+}
